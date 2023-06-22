@@ -1,0 +1,8 @@
+---
+title: "First_course_project_markdown"
+author: "Stephanie Temnyk"
+date: "2023-06-22"
+output: html_document
+---
+
+## This is a markdown file
